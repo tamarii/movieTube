@@ -17,7 +17,7 @@ function FooterLine() {
           style={{ maxHeight: "100px" }}
           navbarScroll
         ></Nav>
-        <div className="d-flex">
+        <div className="rights d-flex">
           Copyright ⓒ2023 All rights reserved by:{" "}
           <span className="copyright">Tamar Elmakayes</span>
         </div>
