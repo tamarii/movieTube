@@ -441,6 +441,8 @@ header span{
   font-weight: 300;
   animation: slideMein 3s ease-in;
   font-size: 1.1rem;
+  padding-left: 7px;
+  padding-right: 7px ;
 }
 
 .p-content.par{
