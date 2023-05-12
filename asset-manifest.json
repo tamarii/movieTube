@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movieTube/static/css/main.2390054c.css",
+    "main.css": "/movieTube/static/css/main.3e60db86.css",
     "main.js": "/movieTube/static/js/main.18b6b0f8.js",
     "static/media/banner.jpg": "/movieTube/static/media/banner.61b526b58d47bf15a411.jpg",
     "static/media/movietubelogo.png": "/movieTube/static/media/movietubelogo.ff44d6355580003be5b2.png",
     "index.html": "/movieTube/index.html",
-    "main.2390054c.css.map": "/movieTube/static/css/main.2390054c.css.map",
+    "main.3e60db86.css.map": "/movieTube/static/css/main.3e60db86.css.map",
     "main.18b6b0f8.js.map": "/movieTube/static/js/main.18b6b0f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2390054c.css",
+    "static/css/main.3e60db86.css",
     "static/js/main.18b6b0f8.js"
   ]
 }
