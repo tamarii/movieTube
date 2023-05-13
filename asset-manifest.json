@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movieTube/static/css/main.02ee8dc5.css",
-    "main.js": "/movieTube/static/js/main.18b6b0f8.js",
+    "main.css": "/movieTube/static/css/main.e2cde1c6.css",
+    "main.js": "/movieTube/static/js/main.e629917c.js",
     "static/media/banner.jpg": "/movieTube/static/media/banner.61b526b58d47bf15a411.jpg",
     "static/media/movietubelogo.png": "/movieTube/static/media/movietubelogo.ff44d6355580003be5b2.png",
     "index.html": "/movieTube/index.html",
-    "main.02ee8dc5.css.map": "/movieTube/static/css/main.02ee8dc5.css.map",
-    "main.18b6b0f8.js.map": "/movieTube/static/js/main.18b6b0f8.js.map"
+    "main.e2cde1c6.css.map": "/movieTube/static/css/main.e2cde1c6.css.map",
+    "main.e629917c.js.map": "/movieTube/static/js/main.e629917c.js.map"
   },
   "entrypoints": [
-    "static/css/main.02ee8dc5.css",
-    "static/js/main.18b6b0f8.js"
+    "static/css/main.e2cde1c6.css",
+    "static/js/main.e629917c.js"
   ]
 }
