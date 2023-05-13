@@ -7,17 +7,17 @@ function About() {
       <div className="about-content-one maxi-center">
         <h2 className="subTitle">How did it start?</h2>
         <p className="p-content">
-          I wanted to make a project that is usefull to a lot people. At firts I
-          thought about making a recipes website. I made a whole plan for it but
-          the API I chose didn't work. I needed to think it over again and it
-          came to me that I do love food but I love to watch movies, specialy
-          Netflix. I couldn't make a movie website without buying the movies so
-          I decided to make a trailer web where the client can search for a
-          movie, watch its trailer and even mark his favorites.I'm also a
-          designer, so I put a lot of thinking in the programming and also in
-          the design itself, I even designed it its own logo. I used THE MOVIE
-          DB API so the client would be able to get the recent cinema world
-          update.
+          I wanted to make a project that is usefull to a lot of people. At
+          firts I thought about making a recipes website. I made a whole plan
+          for it but the API I chose didn't work. I needed to think all it over
+          again and it came to me that I do love food but I love to watch movies
+          even more, specialy Netflix. I couldn't make a movie website without
+          buying the movies so I decided to make a trailer web where the client
+          can search for a movie, watch its trailer and even mark his
+          favorites.I'm also a designer, so I put a lot of thinking in the
+          programming and also in the design itself, I even designed it its own
+          logo. I used THE MOVIE DB API so the client would be able to get the
+          recent cinema world update.
         </p>
       </div>
       <div className="about-content-two maxi-center">
