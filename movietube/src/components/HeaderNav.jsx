@@ -25,7 +25,7 @@ function HeaderNav() {
             </NavLink>
           </Nav>
           <NavLink className="nalink d-flex" to="/FavoritesPage">
-            Favorits
+            Favorites
           </NavLink>
         </Navbar.Collapse>
       </Container>
